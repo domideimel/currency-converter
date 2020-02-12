@@ -1,11 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5da0cf8b-5d29-4fd1-aa6f-c962bfe0561e" name="Default Changelist" comment="" />
+    <list default="true" id="5da0cf8b-5d29-4fd1-aa6f-c962bfe0561e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CurrencyRow.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -19,9 +34,11 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.JavaScript" />
   </component>
   <component name="RunManager">
     <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
@@ -50,18 +67,34 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1581532838228</updated>
-      <workItem from="1581532839722" duration="199000" />
+      <workItem from="1581532839722" duration="2649000" />
     </task>
+    <task id="LOCAL-00001" summary="initial commit after cleanup">
+      <created>1581533073413</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1581533073413</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial commit after cleanup" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial commit after cleanup" />
   </component>
   <component name="WindowStateProjectService">
     <state x="698" y="365" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1581532916287">
       <screen x="0" y="23" width="1920" height="1177" />
     </state>
     <state x="698" y="365" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1920.1177@0.23.1920.1177" timestamp="1581532916287" />
+    <state x="529" y="128" key="CommitChangelistDialog2" timestamp="1581533073258">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state x="529" y="128" key="CommitChangelistDialog2/0.23.1920.1177@0.23.1920.1177" timestamp="1581533073258" />
     <state width="1899" height="311" key="GridCell.Tab.0.bottom" timestamp="1581533030497">
       <screen x="0" y="23" width="1920" height="1177" />
     </state>
@@ -78,6 +111,10 @@
       <screen x="0" y="23" width="1920" height="1177" />
     </state>
     <state width="1899" height="311" key="GridCell.Tab.0.right/0.23.1920.1177@0.23.1920.1177" timestamp="1581533030497" />
+    <state x="461" y="250" key="SettingsEditor" timestamp="1581533878674">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state x="461" y="250" key="SettingsEditor/0.23.1920.1177@0.23.1920.1177" timestamp="1581533878674" />
     <state x="625" y="288" width="670" height="676" key="search.everywhere.popup" timestamp="1581532949692">
       <screen x="0" y="23" width="1920" height="1177" />
     </state>
